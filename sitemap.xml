@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.pure.gr/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://www.pure.gr/</loc><priority>1.0</priority></url>
+  <url><loc>https://www.pure.gr/adynatisma-kyttaritida</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/epidermiki-sysfixi</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/body-glow-care</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/masaz-relax</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/katharismos-prosopou</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/glow-repair-rituals</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/hydrafacial</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/rf-radiosyxnotites</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/mesotherapeia</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/peelings</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/laser-soprano-ice</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/ipl</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/riziki-apotrixosi-apilus</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/keri</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/sxhmatismos-frydion</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/dermoanalysi-prosopou</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/dermoanalysi-somatos</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/arthro-mythoi-katharismos-prosopou</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/arthro-ti-einai-i-retinoli</loc><priority>0.8</priority></url>
+  <url><loc>https://www.pure.gr/privacy</loc><priority>0.3</priority></url>
 </urlset>
